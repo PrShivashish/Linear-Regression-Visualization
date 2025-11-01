@@ -462,7 +462,7 @@ If this repository helped you understand linear regression better, please consid
 
 <div align="center">
 
-### Made with ❤️ by [Urooj Zarab](https://github.com/uroojzarab)
+### Made with ❤️ by [Shivashish Prusty](https://github.com/PrShivashish)
 
 **Happy Learning! Keep Building! 🚀**
 
