@@ -1,4 +1,4 @@
-# 📊 Linear Regression From Scratch
+# 📊 Linear Regression Visualization
 
 <div align="center">
 
